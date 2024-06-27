@@ -1,0 +1,104 @@
+.container{
+    width: 1260px;
+    height: 100px;
+    background-color: rgb(229, 106, 127);
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+button{
+    width: 50px;
+    height: 50px;
+}
+
+p{
+    margin: 0.00001px;
+}
+
+.command{
+    display: flex;
+    justify-content: space-between ;
+    display: flex;
+    align-items: flex-start;
+}
+
+#three{
+    color: rgb(180, 100, 255);
+    float: left;
+    margin-right: 15px;
+}
+
+#four{
+    float: left;
+    margin-right: 15px;
+}
+
+#five{
+      font-style: italic;
+      color: yellow;
+      float: left;
+    margin-right: 15px;
+}
+
+.controls{
+flex: 1;
+}
+
+.image{
+margin-right: 15px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    margin: 50px;
+}
+
+button{
+    background: palevioletred;
+    color: aliceblue;
+    border-radius: 20px;
+    outline: none;
+}
+
+nav{
+    display: flex;
+}
+
+.com{
+    width: 250px;
+    height: 100px;
+    background-color: palevioletred;
+    color: aliceblue;
+}
+
+.www{
+    width: 250px;
+    height: 100px;
+    background-color: palevioletred;
+    color: aliceblue;
+}
+
+.vercel{
+    width: 250px;
+    height: 100px;
+    background-color: palevioletred;
+    color: aliceblue;
+}
+
+.wwwcom{
+    display: flex;
+}
+
+h1{
+    text-align: center;
+}
+
+#nal{
+    text-align: center;
+}
+
+#man{
+    text-align: center;
+}
